@@ -1,4 +1,4 @@
-/*
+﻿/*
  * # Semantic - Breadcrumb
  * http://github.com/jlukic/semantic-ui/
  *
@@ -15389,4 +15389,11 @@ ol.ui.horizontal.list li:before,
 }
 .ui.statistic > .description {
   opacity: 0.8;
+}
+
+.center
+{
+    display:inline-block;
+    margin-left:auto; 
+    margin-right:auto;
 }

@@ -15390,3 +15390,20 @@ ol.ui.horizontal.list li:before,
 .ui.statistic > .description {
   opacity: 0.8;
 }
+
+body, .ui.grid {
+	background-color: #002E5C;
+	
+  }
+body, div, a, i{
+	color: white;
+}
+  footer{
+	position: relative;
+	bottom:0;
+	color: white;
+	line-height: 1.33;
+  	font-size: 1.25rem;
+  	width: 100%;
+  	text-align: center;
+}

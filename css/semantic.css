@@ -6,7 +6,7 @@
  * Copyright 2014 Contributors
  * Released under the MIT license
  * http://opensource.org/licenses/MIT
- *
+ 
  */
 /*******************************
            Breadcrumb
@@ -5606,7 +5606,7 @@ i.massive.basic.icon {
 .ui.vertical.divider:after {
   position: absolute;
   left: 50%;
-  content: " ";
+  /* content: " "*/
   z-index: 3;
   border-left: 1px solid rgba(0, 0, 0, 0.1);
   border-right: 1px solid rgba(255, 255, 255, 0.8);

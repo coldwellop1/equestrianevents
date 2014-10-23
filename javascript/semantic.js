@@ -8,6 +8,8 @@
  * http://opensource.org/licenses/MIT
  *
  */
+ 
+ $('table').tablesort();
 
 ;(function ($, window, document, undefined) {
 

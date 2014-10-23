@@ -726,6 +726,7 @@
 *******************************/
 .ui.grid {
   display: block;
+  background-color: #002E5C;
   text-align: left;
   font-size: 0em;
   margin: 0% 0%;

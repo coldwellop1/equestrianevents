@@ -1466,6 +1466,10 @@ body > .ui.grid {
 /*--------------
     Colors
 ---------------*/
+/* Disabled Link Color */
+a.disabled{
+  color: rgba(150, 150, 150, 0.3);
+}
 /* Text Color */
 .ui.menu .item,
 .ui.menu .item > a:not(.button) {

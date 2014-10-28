@@ -15402,7 +15402,7 @@ body, .ui.grid {
 	background-color: #002E5C;
 	
   }
-body, div, a, i{
+body, div, a, i, th{
 	color: white;
 }
   footer{

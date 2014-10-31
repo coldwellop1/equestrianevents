@@ -15391,6 +15391,7 @@ ol.ui.horizontal.list li:before,
   opacity: 0.8;
 }
 
+/* Emily's edits */
 body, .ui.grid {
 	background-color: #002E5C;
 	
@@ -15406,4 +15407,10 @@ body, div, a, i{
   	font-size: 1.25rem;
   	width: 100%;
   	text-align: center;
+}
+
+a{
+	text-decoration: none;
+}
+	
 }
